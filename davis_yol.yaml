@@ -1,0 +1,65 @@
+# YOLOv5 üçün DAVIS dataset YAML faylı
+train: /content/DAVIS_YOLOv5/images/train 
+val: /content/DAVIS_YOLOv5/images/val
+#test:
+
+# DAVIS datasetindəki obyekt sinifləri
+nc: 50  # Siniflərin sayı (object)
+
+names:
+  0: hockey
+  1: breakdance
+  2: scooter-black
+  3: libby
+  4: elephant
+  5: horsejump-low
+  6: dance-twirl
+  7: bmx-trees
+  8: kite-surf
+  9: motocross-bumps
+  10: mallard-fly
+  11: lucia
+  12: bus
+  13: parkour
+  14: breakdance-flare
+  15: bmx-bumps
+  16: motorbike
+  17: camel
+  18: soccerball
+  19: scooter-gray
+  20: soapbox
+  21: train
+  22: rhino
+  23: blackswan
+  24: paragliding-launch
+  25: car-shadow
+  26: stroller
+  27: boat
+  28: bear
+  29: drift-turn
+  30: motocross-jump
+  31: kite-walk
+  32: tennis
+  33: mallard-water
+  34: paragliding
+  35: car-turn
+  36: car-roundabout
+  37: rollerblade
+  38: dog
+  39: dance-jump
+  40: drift-straight
+  41: hike
+  42: surf
+  43: cows
+  44: goat
+  45: flamingo
+  46: swing
+  47: horsjump-high
+  48: dog-agility
+  49: drift-chicane
+
+
+
+ 
+ 
+  
